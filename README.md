@@ -1,7 +1,21 @@
-# Udacity_GPU_Prog
-My work related to the Udacity Introduction to Parallel Programming, CS 344. I am taking this course to improve my expertise of GPU Parallel programming, and after nearly every set of lectures, there are problem sets that enable the student to practice the skills taught. Here, I have listed the assignments I've completed and brief descriptions of the technical problems I solved. **All assignments are applications of image processing and are implemented using OpenCV in CUDA C/C++**.
+# Udacity_GPU_Prog My work related to the Udacity Introduction to
+Parallel Programming, CS 344. I am taking this course to improve my expertise of GPU
+Parallel programming, and after nearly every set of lectures, there
+are problem sets that enable the student to practice the skills
+taught. Here, I have listed the assignments I've completed and brief
+descriptions of the technical problems I solved. **All assignments are
+applications of image processing and are implemented using OpenCV in
+CUDA C/C++**.
+
+I have uploaded this code which contains my completed solutions along
+wth the rest of the code in the library that was needed to compile and
+run it. However, I do not recommned trying to compile this code on its
+own since it's missing some CMake directives, and this code is only
+given here for demonstration purposes. To find the code that I wrote,
+please look in: `Problem Set <INT>/student_func.cu`.
 
 Udacity course that this work comes from: https://www.udacity.com/course/intro-to-parallel-programming--cs344
+
 Code originally forked from github repo: https://github.com/udacity/cs344
 
 ## Brief Description of Problem Sets:
