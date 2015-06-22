@@ -1,4 +1,5 @@
-# Udacity_GPU_Prog My work related to the Udacity Introduction to
+# Udacity_GPU_Prog
+My work related to the Udacity Introduction to
 Parallel Programming, CS 344. I am taking this course to improve my expertise of GPU
 Parallel programming, and after nearly every set of lectures, there
 are problem sets that enable the student to practice the skills
@@ -16,7 +17,7 @@ please look in: `Problem Set <INT>/student_func.cu`.
 
 Udacity course that this work comes from: https://www.udacity.com/course/intro-to-parallel-programming--cs344
 
-Code originally forked from github repo: https://github.com/udacity/cs344
+Code originally forked from github repo: https://github.com/udacity/cs344 (but the solutions, written up in student_func.cu are my own).
 
 ## Brief Description of Problem Sets:
 * Problem Set 1: *Color to Greyscale conversion.* Converted RGBA image to greyscale using the formula recommended by the NTSC.
